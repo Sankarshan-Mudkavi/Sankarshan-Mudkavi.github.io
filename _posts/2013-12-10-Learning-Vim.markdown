@@ -4,6 +4,7 @@ title: "Learning Vim"
 date: 2013-12-1 10:54:000
 category: jekyll update
 ---
+
 Over the past few years, I've had the occasional opportunity to edit code with
 vim, however I've never truly embraced the editor and it's key bindings. 
 Over the next month, and throughout my co-op work term I intend to incrementally learn vim.
