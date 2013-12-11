@@ -2,7 +2,7 @@
 layout: posts
 title: "Learning Vim"
 date: 2013-12-1 10:54:000
-category: jekyll update
+categoresy: jekyll update
 ---
 
 Over the past few years, I've had the occasional opportunity to edit code with
