@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Vim"
-date: 2013-12-1 10:54:00
+date: 2013-12-10 10:54:00
 categories: jekyll update
 ---
 
